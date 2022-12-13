@@ -33,7 +33,7 @@
     "@octokit/rest": "^16.28.5",
     "btoa": "^1.2.1",
     "ejs": "^2.6.2",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-minify": "^1.0.0",
     "md5": "^2.2.1",
     "postcss-middleware": "^1.1.4",
